@@ -31,5 +31,6 @@ Adrian Martinez Soriano
 > Elección grupal sobre un tema relacionado con una civilización y analizar cómo se relacionan con el medio y/o entre ellos.
 
 > Reflexión sobre la siguiente pregunta: ¿Acabaremos con la vida de nuestro planeta?
+--- Mi opinión: No creo que podamos acabar con la vida del planeta en su totalidad, porque la vida es muy resistente y siempre encuentra formas de adaptarse, incluso en condiciones extremas. Lo que sí es posible es que, si seguimos dañando los ecosistemas, provoquemos la desaparición de muchas especies incluida la nuestra y transformemos la Tierra en un lugar mucho más hostil. 
 
 
