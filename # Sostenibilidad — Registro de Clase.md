@@ -1,7 +1,7 @@
 Adrian Martinez Soriano
 # Sostenibilidad — Registro de Clase 
 
-
+ 
 ## Día 1 — Fecha: 19/09/2025
 
 
@@ -32,5 +32,15 @@ Adrian Martinez Soriano
 
 > Reflexión sobre la siguiente pregunta: ¿Acabaremos con la vida de nuestro planeta?
 --- Mi opinión: No creo que podamos acabar con la vida del planeta en su totalidad, porque la vida es muy resistente y siempre encuentra formas de adaptarse, incluso en condiciones extremas. Lo que sí es posible es que, si seguimos dañando los ecosistemas, provoquemos la desaparición de muchas especies incluida la nuestra y transformemos la Tierra en un lugar mucho más hostil. 
+
+## Dia 4 - Fecha: 10/10/2025
+
+### Resumen del día
+
+> Reflexión sobre los ecosistemas y los organismos que viven en ellos
+
+> Explicación de la sobrecarga de los ecosistemas y qué pasaría si los humanos nos quedamos sin recursos.
+
+
 
 
