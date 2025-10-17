@@ -1,7 +1,8 @@
 Adrian Martinez Soriano
-# Sostenibilidad — Registro de Clase 
+## Sostenibilidad — Registro de Clase 
 
- 
+
+# SEPTIEMBRE
 ## Día 1 — Fecha: 19/09/2025
 
 
@@ -18,8 +19,10 @@ Adrian Martinez Soriano
 > Explicación del tema.
 
 > Participación en grupo y creación de un repositorio de Github grupal.
-
-
+---
+---
+---
+# OCTUBRE
 ## Día 3 — Fecha: 03/10/2025
 
 ### Resumen del día
@@ -41,6 +44,13 @@ Adrian Martinez Soriano
 
 > Explicación de la sobrecarga de los ecosistemas y qué pasaría si los humanos nos quedamos sin recursos.
 
+## Dia 5 - Fecha: 17/10/2025
 
+### Resumen del día
 
+> Debate sobre la siguiente pregunta: ¿Vivimos solos?
 
+> Relaciones entre especies. Tipos de especies.
+
+> Reflexión sobre lo siguiente: ¿Qué hacemos nosostros: cooperamos o competimos? 
+En nuestra vida diaria solemos competir más que cooperar, buscando destacar sobre los demás. Sin embargo, los mayores logros humanos nacen de la cooperación. Competir puede motivar, pero cooperar construye. 
