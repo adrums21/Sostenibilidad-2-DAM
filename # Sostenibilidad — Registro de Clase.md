@@ -54,3 +54,17 @@ Adrian Martinez Soriano
 
 > Reflexión sobre lo siguiente: ¿Qué hacemos nosostros: cooperamos o competimos? 
 En nuestra vida diaria solemos competir más que cooperar, buscando destacar sobre los demás. Sin embargo, los mayores logros humanos nacen de la cooperación. Competir puede motivar, pero cooperar construye. 
+
+## Dia 6 - Fecha: 24/10/2025
+
+### Resumen del día
+
+> Estrategia r y K. La estrategia r se basa en tener muchas crías, con poca inversión en cada una y alta mortalidad (ej. insectos).
+La estrategia K implica pocas crías, con gran cuidado y supervivencia alta (ej. mamíferos grandes).
+
+> Propuesta de una nueva tarea --> Economía circular y sostenibilidad: explicar qué es, dar ejemplos y que cada integrante analice una acción sostenible personal o profesional.
+
+> Reflexión sobre lo siguiente: ¿Qué estrategia usamos los humanos?
+Los humanos usamos principalmente la estrategia K: tenemos pocos hijos, invertimos mucho tiempo y recursos en su cuidado y educación, y buscamos una alta supervivencia.
+
+> Conceptos sobre la supervivencia de las especies.
