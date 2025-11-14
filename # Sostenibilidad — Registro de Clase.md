@@ -80,3 +80,9 @@ Además, como es que estos recursos serían completamente escasos y se necesitar
 También, se habló sobre el ciclo cerrado de la biosfera, donde se nos da a entender que al morir nuestros atómos de carbono se liberan al morir, las plantas de alimentan de éstos y nosotros comemos plantas por lo que se genera un ciclo.
 Por ultimo, hemos elegido unos cuantos un método de sostenibilidad de recursos en clase para ponerlo en el repositorio grupal y discutirlo después.
 
+# NOVIEMBRE
+
+## Día 8 - Fecha: 07/11/2025
+### Resumen del dí
+
+> No hubo clase ese día
