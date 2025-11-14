@@ -68,3 +68,15 @@ La estrategia K implica pocas crías, con gran cuidado y supervivencia alta (ej.
 Los humanos usamos principalmente la estrategia K: tenemos pocos hijos, invertimos mucho tiempo y recursos en su cuidado y educación, y buscamos una alta supervivencia.
 
 > Conceptos sobre la supervivencia de las especies.
+
+## Día 7 - Fecha: 31/10/2025
+
+### Resumen del día
+
+> Ese día no pude ir, por lo que le pedí a un compañero lo que habían hecho
+
+> Se ha realizado una charla sobre los recursos limitados que se tiene en el planeta tierra, mostrando como es que el agua es recolectado a nivel regional por acuíferos y pozos.
+Además, como es que estos recursos serían completamente escasos y se necesitarían 5 planetas tierras si todo el mundo usara los recursos que se usan en el primer mundo.
+También, se habló sobre el ciclo cerrado de la biosfera, donde se nos da a entender que al morir nuestros atómos de carbono se liberan al morir, las plantas de alimentan de éstos y nosotros comemos plantas por lo que se genera un ciclo.
+Por ultimo, hemos elegido unos cuantos un método de sostenibilidad de recursos en clase para ponerlo en el repositorio grupal y discutirlo después.
+
