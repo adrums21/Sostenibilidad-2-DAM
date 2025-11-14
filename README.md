@@ -1,6 +1,13 @@
 Adrian Martinez Soriano
 ## Sostenibilidad — Registro de Clase 
 
+# NOVIEMBRE
+
+## Día 8 - Fecha: 07/11/2025
+### Resumen del día
+
+> No hubo clase ese día
+
 #OCTUBRE
 
 ## Día 7 - Fecha: 31/10/2025
