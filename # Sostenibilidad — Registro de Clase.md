@@ -83,6 +83,58 @@ Por ultimo, hemos elegido unos cuantos un método de sostenibilidad de recursos 
 # NOVIEMBRE
 
 ## Día 8 - Fecha: 07/11/2025
-### Resumen del dí
+### Resumen del día
 
 > No hubo clase ese día
+
+## Día 9 - Fecha: 14/11/2025
+### Resumen del día
+
+> Los humanos fabricamos herramientas para resolver problemas que surgen a diario y así avanzar tecnológicamente y vivir mejor. Todo esto lleva un proceso y tiene sus consecuencias. 
+
+> Ejemplo del proceso de creación de un teléfono móvil, un móvil pesa 150 gramos y para realizarlo se mueven 80 kilogramos de materiales. A esto se le conoce como el 'peso oculto'.
+
+> Explicación de la metodología del Análisis del Ciclo de Vida: 
+1. Materias primas
+2. Fabricación
+3. Distribución
+4. Uso del producto
+5. Gestión final
+
+> Cuando se fabrica un teléfono en el paso dos del Ciclo de Vida, se consume en total el siguiente peso en materiales y peso oculto:
+
+A. Materiales visibles (teléfono ensamblado)
+- **Incluye:** Metales, plásticos, vidrio, batería, chips, adhesivos  
+- **Cantidad:** ~120–170 g  
+
+B. Embalaje y accesorios
+- **Incluye:** Caja, manual, cable, cargador (si se incluye), protecciones  
+- **Cantidad:** 50–300 g  
+
+C. Pérdidas y rechazos en fábrica
+- **Incluye:** Recortes, piezas defectuosas, desechos de montaje  
+- **Cantidad:** 50–500 g  
+
+D. Flujos mineros directos (mineral movilizado + relaves)
+- **Incluye:** Masa de mineral extraído necesaria para Au, Ag, Cu, Co, Ta, etc.  
+- **Cantidad:** ~20–100 kg  
+
+E. Procesamiento y refinado (escoria, subproductos)
+- **Incluye:** Material movilizado durante fundición y refinado  
+- **Cantidad:** ~10–30 kg  
+
+F. Componentes manufacturados upstream
+- **Incluye:** PCB, chips, baterías (HMF embebido)  
+- **Cantidad:** ~5–20 kg  
+
+G. Transporte y logística
+- **Incluye:** Movilización de materias primas y componentes  
+- **Cantidad:** ~1–5 kg  
+
+H. Agua y otros insumos
+- **Incluye:** Evaporación, lodos y equivalentes  
+- **Cantidad:** ~1–5 kg  
+
+I. Total (peso oculto: D–H)
+- **Cantidad:** **~50–150 kg**
+
