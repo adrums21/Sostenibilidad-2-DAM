@@ -138,3 +138,8 @@ H. Agua y otros insumos
 I. Total (peso oculto: D–H)
 - **Cantidad:** **~50–150 kg**
 
+## Día 10 - Fecha: 21/11/2025
+### Resumen del día
+
+> No hubo clase ese día
+
