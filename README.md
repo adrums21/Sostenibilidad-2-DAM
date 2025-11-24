@@ -3,6 +3,11 @@ Adrian Martinez Soriano
 
 # NOVIEMBRE
 
+## Día 10 - Fecha: 21/11/2025
+### Resumen del día
+
+> No hubo clase ese día
+
 ## Día 9 - Fecha: 14/11/2025
 ### Resumen del día
 
