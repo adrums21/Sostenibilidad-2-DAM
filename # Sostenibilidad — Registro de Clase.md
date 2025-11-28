@@ -143,3 +143,64 @@ I. Total (peso oculto: D–H)
 
 > No hubo clase ese día
 
+## Día 11 - Fecha: 28/11/2025
+### Resumen del día
+
+> Introducción sobre economía lineal vs circular. 
+
+> Modelo actual: la economia lineal: "tomar, hacer y desechar".
+
+> Pregunta: ¿y a mi que me cuentas? ¿enfoque colectivo o individual?
+
+1. “¿Y a mí qué me cuentas?”
+
+ Porque la economía lineal "tomar, hacer y desechar" afecta tu vida diaria aunque no lo notes:
+
+- Pagas más: productos diseñados para durar poco o no repararse te obligan a comprar de nuevo.
+
+- Genera más basura: y termina en tu entorno, en tu ciudad, en tu salud.
+
+- Agota recursos: lo que hoy es barato mañana puede ser escaso y caro.
+
+- Impacta tu empleo: los modelos circulares generan nuevos oficios (reparación, reutilización, remanufactura), mientras que los lineales suelen crear economías más frágiles.
+
+La economía circular te beneficia directamente porque busca productos más duraderos, reparables y eficientes.
+
+2. ¿El ecodiseño en qué me afecta?
+
+El ecodiseño influye en tu experiencia como usuario:
+
+- Productos que duran más
+
+- Menos costos de uso (menos energía, menos mantenimiento)
+
+- Mayor facilidad para reparar en lugar de reemplazar
+
+- Menos residuos en tu entorno
+
+- Materiales más seguros (menos tóxicos, más saludables)
+
+En resumen: mejor calidad de vida y menos gasto a largo plazo.
+
+3. ¿Enfoque colectivo o individual?
+
+Ambos son esenciales, pero con roles distintos:
+
+*Individual:
+
+- Elegir productos reparables, duraderos o circularmente diseñados.
+
+- Separar residuos y consumir menos.
+
+- Exigir mejores opciones como consumidor.
+
+*Colectivo (el más decisivo):
+
+- Empresas que ecodiseñan desde el principio.
+
+- Gobiernos que regulan, incentivan y gestionan residuos.
+
+- Comunidades que promueven servicios de reparación y reutilización.
+
+La economía circular funciona de verdad cuando lo individual se suma a lo colectivo.
+
