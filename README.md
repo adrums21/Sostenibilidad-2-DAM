@@ -3,6 +3,14 @@ Adrian Martinez Soriano
 
 # NOVIEMBRE
 
+## Día 12 - Fecha: 05/12/2025
+### Resumen del día
+
+> Reflexión sobre los siguientes temas: Huella ecológica y huella de carbono.
+
+> Calculo de mi huella de carbono: 
+![alt text](image-3.png)
+
 ## Día 11 - Fecha: 28/11/2025
 ### Resumen del día
 
