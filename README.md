@@ -3,6 +3,74 @@ Adrian Martinez Soriano
 
 # NOVIEMBRE
 
+## Día 13 - Fecha: 12/12/2025
+### Resumen del día
+
+> Reflexión sobre el siguiente tema: Cambio climático: impactos sistemáticos en la economía, la tecnología y la seguridad global.
+
+> Impacto en el Hardware Humano: La salud bajo estrés. Datos y estadísticas que reflejan el efecto del cambio climático en las personas.
+![alt text](image-2.png)
+
+> Explicación de la matriz energética y económica.
+
+> Preguntas del día: 
+
+*-¿Cual es el principal emisor de CO2?*
+
+El principal emisor de dióxido de carbono (CO₂) a nivel mundial es actualmente China, en términos de emisiones totales anuales. 
+Detalles clave:
+China es el país que más CO₂ emite hoy en día, con aproximadamente 11,9 – 12,6 mil millones de toneladas métricas de CO₂ anuales, lo que representa cerca del 31 % de las emisiones globales.
+
+
+*-¿Qué puedo hacer yo como programador para mitigar el cambio climatico?*
+
+1. Optimizar el uso de recursos de tus programas
+
+Escribir código eficiente: menos consumo de CPU/GPU = menos electricidad.
+
+Evitar procesos innecesarios que ejecuten loops o cálculos pesados.
+
+Usar algoritmos con menor complejidad computacional cuando sea posible (O(n) vs O(n²)).
+
+
+2. Eficiencia en la nube
+
+Minimizar los recursos que usas en servidores cloud: instancias apagadas cuando no se usan.
+
+Usar servidores con eficiencia energética o proveedores que usen energía renovable (Google Cloud, AWS, Azure tienen opciones).
+
+Optimizar bases de datos y almacenamiento: menos espacio y menos acceso = menos consumo.
+
+3. Elegir frameworks y tecnologías verdes
+
+Algunos frameworks y lenguajes consumen menos energía para la misma tarea.
+
+4. Reducir el tráfico de red
+
+Minimizar llamadas a APIs innecesarias.
+
+Comprimir datos antes de enviarlos.
+
+Cachear resultados cuando sea posible.
+
+5. Contribuir a proyectos sostenibles
+
+Participar en software que ayude al medio ambiente: apps de eficiencia energética, monitoreo de contaminación, movilidad sostenible, etc.
+
+Apoyar o contribuir a open source verde.
+
+6. Conciencia y educación
+
+Fomentar la cultura de eficiencia energética en tu equipo.
+
+Documentar buenas prácticas de código eficiente y consumo responsable de recursos.
+
+7. Teletrabajo y hábitos personales
+
+Aunque no sea directamente programación, trabajar remoto evita desplazamientos diarios (menos CO₂).
+
+Apoyar energías renovables en casa y oficina: paneles solares, iluminación LED, eficiencia en PCs/servidores personales.
+
 ## Día 12 - Fecha: 05/12/2025
 ### Resumen del día
 
