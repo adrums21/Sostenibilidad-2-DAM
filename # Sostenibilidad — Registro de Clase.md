@@ -204,3 +204,12 @@ Ambos son esenciales, pero con roles distintos:
 
 La economía circular funciona de verdad cuando lo individual se suma a lo colectivo.
 
+## Día 12 - Fecha: 05/12/2025
+### Resumen del día
+
+> Reflexión sobre los siguientes temas: Huella ecológica y huella de carbono.
+
+> Calculo de mi huella de carbono: 
+![alt text](image-3.png)
+
+
