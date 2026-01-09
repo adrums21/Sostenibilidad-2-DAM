@@ -1,7 +1,23 @@
 Adrian Martinez Soriano
 ## Sostenibilidad — Registro de Clase 
 
-# NOVIEMBRE
+# ENERO
+
+## Día 14 - Fecha: 09/01/2026
+### Resumen del día
+
+>Reflexión sobre la contaminación y el impacto que supone.
+
+>Además, hablamos sobre el problema de las toallitas en los alcantarillados. Las toallitas no se desintegran como el papel higiénico, por lo que provocan atascos de tuberías, inundaciones, malos olores y contaminación.
+
+> Pregunta del dia: ¿Por qué cambiaste tu ultimo movil?
+
+Cambié mi último móvil porque empezó a funcionar muy lento y la batería ya no duraba casi nada.Lo intenté usar el mayor tiempo posible, pero llegó un punto en el que no podía usarlo bien para el día a día. Aun así, soy consciente de que cambiar de móvil contribuye a la contaminación, pero al final es algo necesario para la vida cotidiana y para ayudarnos a resolver muchos problemas.
+
+![alt text](imagen-5.jpeg)
+
+
+# DICIEMBRE
 
 ## Día 13 - Fecha: 12/12/2025
 ### Resumen del día
@@ -78,6 +94,8 @@ Apoyar energías renovables en casa y oficina: paneles solares, iluminación LED
 
 > Calculo de mi huella de carbono: 
 ![alt text](image-3.png)
+
+# NOVIEMBRE
 
 ## Día 11 - Fecha: 28/11/2025
 ### Resumen del día
