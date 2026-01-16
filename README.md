@@ -2,6 +2,27 @@ Adrian Martinez Soriano
 ## Sostenibilidad — Registro de Clase 
 
 # ENERO
+## Día 15 - Fecha: 16/01/2026
+### Resumen del día
+
+> Charlamos sobre la agenda 2030 y los objetivos de desarrollo sostenibles. Dichos objetivos se agrupan en 3 dimensiones: social; ambiental; y económina y de gobernanza.
+
+> Búsqueda de argumentos a favor y en contra de los ODS.
+
+> La mitad de la clase buscó a favor y la otra mitad en contra, en este caso me tocó a favor:
+
+- Dan una dirección común al mundo
+- Ayudan a priorizar problemas urgentes
+- Promueven un desarrollo más justo
+- Previenen problemas futuros
+- Fomentan la cooperación internacional
+- Impulsan la participación ciudadana
+
+>Pregunta del día: ¿Crees que se van a conseguir los ODS?
+
+Creo que los ODS difícilmente se alcanzarán en su totalidad, al menos en los plazos previstos. Aunque han servido para generar conciencia y orientar políticas públicas, muchos países avanzan a ritmos muy desiguales y existen obstáculos importantes como conflictos, intereses económicos, desigualdad y falta de compromiso real. Aún así, están impulsando cambios en la sociedad para unir a las personas por un bien común.
+
+![alt text](imagen-6.jpg)
 
 ## Día 14 - Fecha: 09/01/2026
 ### Resumen del día
