@@ -2,6 +2,26 @@ Adrian Martinez Soriano
 ## Sostenibilidad — Registro de Clase 
 
 # ENERO
+
+## Día 16 - Fecha: 23/01/2026
+### Resumen del día
+
+> ¿Qué es la sostenibilidad?
+
+La sostenibilidad consiste en satisfacer las necesidades actuales de la sociedad sin comprometer los recursos de las generaciones futuras. Su finalidad es lograr un equilibrio entre el crecimiento económico, el cuidado del medio ambiente y el bienestar social.
+
+> En clase se destacó que la sostenibilidad ya no puede ser algo opcional sino un requisito imprescindible para el futuro. Sin sostenibilidad no hay economía ni estabilidad social.
+
+> Reflexión personal
+
+Estoy de acuerdo plenamente con lo expuesto en clase. El ejemplo de las empresas que fabrican vehículos de lujo demuestra claramente cómo ciertos productos, pensados para el ocio y no como una necesidad real, generan un impacto negativo en la sostenibilidad debido a su alto consumo de recursos. 
+
+>Pregunta del día: ¿Los planes de sostenibilidad sirver o son solo greenwashing?
+
+Los planes de sostenibilidad pueden tener un impacto positivo real si se aplican de forma honesta. Sin embargo, en algunos casos se utilizan únicamente como estrategia de marketing, sin cambios reales en los procesos productivos, lo que da lugar al llamado greenwashing.
+
+![alt text](image-7.jpg)
+
 ## Día 15 - Fecha: 16/01/2026
 ### Resumen del día
 
