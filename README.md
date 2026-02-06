@@ -1,6 +1,14 @@
 Adrian Martinez Soriano
 ## Sostenibilidad — Registro de Clase 
 
+
+# FEBRERO
+
+## Día 17 - Fecha: 06/02/2026
+### Resumen del día
+
+>Presentaciones en grupo de todas las páginas web creadas y acciones sostenibles.
+
 # ENERO
 
 ## Día 16 - Fecha: 23/01/2026
