@@ -334,3 +334,9 @@ Los planes de sostenibilidad pueden tener un impacto positivo real si se aplican
 
 ![alt text](image-7.jpg)
 
+
+## Día 17 - Fecha: 06/02/2026
+### Resumen del día
+
+>Presentaciones en grupo de todas las páginas web creadas y acciones sostenibles.
+
